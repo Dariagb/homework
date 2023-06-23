@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Новая папка\вторая задача\bin\Debug\net6.0\вторая задача.exe
+C:\Users\User\Desktop\Новая папка\вторая задача\bin\Debug\net6.0\вторая задача.deps.json
+C:\Users\User\Desktop\Новая папка\вторая задача\bin\Debug\net6.0\вторая задача.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\вторая задача\bin\Debug\net6.0\вторая задача.dll
+C:\Users\User\Desktop\Новая папка\вторая задача\bin\Debug\net6.0\вторая задача.pdb
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.dll
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\refint\вторая задача.dll
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.pdb
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\вторая задача.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\вторая задача\obj\Debug\net6.0\ref\вторая задача.dll
+C:\Users\User\Desktop\вторая задача\bin\Debug\net6.0\вторая задача.exe
+C:\Users\User\Desktop\вторая задача\bin\Debug\net6.0\вторая задача.deps.json
+C:\Users\User\Desktop\вторая задача\bin\Debug\net6.0\вторая задача.runtimeconfig.json
+C:\Users\User\Desktop\вторая задача\bin\Debug\net6.0\вторая задача.dll
+C:\Users\User\Desktop\вторая задача\bin\Debug\net6.0\вторая задача.pdb
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfo.cs
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.dll
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\refint\вторая задача.dll
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.pdb
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\вторая задача.genruntimeconfig.cache
+C:\Users\User\Desktop\вторая задача\obj\Debug\net6.0\ref\вторая задача.dll
